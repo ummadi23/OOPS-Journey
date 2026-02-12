@@ -1,1 +1,7 @@
 oops_intro.py
+# Day 2 - Introduction to OOPS
+
+# OOPS means Object-Oriented Programming System
+# It organizes code using objects
+
+print("OOPS organizes programs using real-world objects")
